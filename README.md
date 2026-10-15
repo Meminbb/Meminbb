@@ -1,18 +1,10 @@
-# Hey, I'm Meminbb! 👋
+# Hey, I'm Kevin! 👋
 
 ### Software Developer · Full Stack · AI & Data · Game Development
 
 I enjoy building software that solves real-world problems, from full-stack web platforms and database-driven applications to mobile apps and interactive games.
 
 My interests span multiple areas of software development, with a focus on learning new technologies, collaborating with others, and turning ideas into practical solutions.
-
-<p align="left">
-  <a href="https://github.com/Meminbb">
-    <img src="https://img.shields.io/badge/GitHub-Meminbb-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
-  <img src="https://img.shields.io/badge/Software-Development-7C3AED?style=for-the-badge" alt="Software development"/>
-  <img src="https://img.shields.io/badge/Always-Learning-2563EB?style=for-the-badge" alt="Always learning"/>
-</p>
 
 ---
 
@@ -37,19 +29,19 @@ An interactive training solution designed to help prepare new leaders for a majo
 
 ### 🏥 [SoftwareEspinaBifida](https://github.com/Meminbb/SoftwareEspinaBifida)
 
-**Full-Stack Development · Healthcare Administration · Data Visualization**
+**Full-Stack Development · Healthcare Administration · Database Management**
 
-A software platform designed to support administrative and operational workflows for a healthcare-related organization.
+A full-stack clinic management platform designed to support the care of patients with spina bifida and streamline healthcare administration.
 
-- Developed interfaces for managing patient information and documentation.
-- Implemented inventory and financial management features.
-- Worked on notifications, appointment management, and administrative records.
-- Built dashboards and visual reports to help organize and interpret operational data.
+- Developed features for patient registration, personal information, and clinical history management.
+- Implemented appointment scheduling, medical inventory, and equipment loan tracking.
+- Built role-based access control, user administration, and notification workflows.
+- Created interactive analytics dashboards to monitor patients, appointments, inventory, and operational statistics.
+- Integrated report generation to facilitate data analysis and administrative reporting.
 
-**Tech stack:** `React` `Node.js` `JavaScript` `Oracle Database`
+**Tech stack:** `React` `JavaScript` `Node.js` `Express` `Oracle Database` `Python` `Recharts`
 
 [Explore the repository →](https://github.com/Meminbb/SoftwareEspinaBifida)
-
 ---
 
 ### 💰 [GestorFinanza](https://github.com/Meminbb/GestorFinanza)
