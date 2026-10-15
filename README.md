@@ -103,7 +103,7 @@ A mobile learning application focused on teaching sign language through educatio
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle" alt="MySQL, PostgreSQL and Oracle"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,oracle,mongodb" alt="MySQL, PostgreSQL, Oracle and MongoDB"/>
 </p>
 
 ### Game & Mobile Development
