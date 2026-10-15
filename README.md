@@ -42,6 +42,7 @@ A full-stack clinic management platform designed to support the care of patients
 **Tech stack:** `React` `JavaScript` `Node.js` `Express` `Oracle Database` `Python` `Recharts`
 
 [Explore the repository →](https://github.com/Meminbb/SoftwareEspinaBifida)
+
 ---
 
 ### 💰 [GestorFinanza](https://github.com/Meminbb/GestorFinanza)
