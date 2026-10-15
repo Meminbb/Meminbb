@@ -97,7 +97,7 @@ A mobile learning application focused on teaching sign language through educatio
 ### Frontend & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="React, Node.js and Express"/>
+  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express" alt="Angular, React, Node.js and Express"/>
 </p>
 
 ### Databases
