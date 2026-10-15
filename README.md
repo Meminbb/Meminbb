@@ -97,14 +97,13 @@ A mobile learning application focused on teaching sign language through educatio
 ### Frontend & Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,nodejs,express" alt="Angular, React, Node.js and Express"/>
+  <img src="https://skillicons.dev/icons?i=angular,react,vite,nodejs,express" alt="Angular, React, Vite, Node.js and Express"/>
 </p>
 
-### Databases
+### Databases & Backend Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="MySQL, PostgreSQL and MongoDB"/>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="48" alt="Oracle"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" alt="MySQL, PostgreSQL, MongoDB, Firebase and Supabase"/>
 </p>
 
 ### Game & Mobile Development
