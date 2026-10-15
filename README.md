@@ -146,16 +146,16 @@ A mobile learning application focused on teaching sign language through educatio
 
 I'm always open to learning, sharing ideas, and collaborating on interesting software projects.
 
-- 💻 **GitHub:** [@Meminbb](https://github.com/Meminbb)
-- 💼 **LinkedIn:** Add your LinkedIn profile URL here.
-- 📧 **Email:** Add your preferred contact email here.
-
+- **GitHub:** [Meminbb](https://github.com/Meminbb)
+- **LinkedIn:** [Kevin Bolaños Borja](https://www.linkedin.com/in/kevin-bola%C3%B1os-borja-95083732a/)
+- **Mail:** Kevinbolanios@outlook.com
+ 
 ---
 
 <p align="center">
-  <i>"Build with curiosity. Solve with creativity. Keep learning."</i>
+  <i>"Every problem is a chance to build something better. I'll take on as many as I can."</i>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! ⭐
+  Thanks for visiting my profile!
 </p>
